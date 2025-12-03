@@ -1,5 +1,5 @@
 package main
-//test
+
 import (
 	"bufio"
 	"fmt"
@@ -8,7 +8,6 @@ import (
 	"strings"
 )
 
-// apple
 const (
 	lowerBound = 0
 	upperBound = 99
