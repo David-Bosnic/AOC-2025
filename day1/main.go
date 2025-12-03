@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// hello
+// goodbye
 const (
 	lowerBound = 0
 	upperBound = 99
