@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// goodbye
+// taco
 const (
 	lowerBound = 0
 	upperBound = 99
